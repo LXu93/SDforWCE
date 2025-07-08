@@ -1,0 +1,6 @@
+checkpoints\
+test_images\
+output\
+wandb\
+IDUN_job.slurm
+trial.ipynb

@@ -1,0 +1,317 @@
+{
+    "section|pathology|feature": [
+        "An endoscopy image from the {section} showing {feature} {pathology}.",
+        "An endoscopy image taken in the {section}, displaying {feature} {pathology}.",
+        "An endoscopy image from the {section}, revealing {feature} {pathology}.",
+        "An endoscopy image taken in the {section}, highlighting {feature} {pathology}.",
+        "An endoscopy image from the {section}, in which shows {feature} {pathology}.",
+        "An endoscopy image from the {section}, in which has {feature} {pathology}.",
+        "An endoscopy image from the {section} with {feature} {pathology}.",
+        "This frame from the {section} is showing {feature} {pathology}."
+    ],
+
+    "section|pathology|feature|position": [
+        "An endoscopy image from the {section} showing {feature} {pathology} at the the {position}.",
+        "An endoscopy image taken in the {section}, displaying {feature} {pathology} at the {position}.",
+        "An endoscopy image from the {section}, revealing {feature} {pathology} at the {position}.",
+        "An endoscopy image taken in the {section}, highlighting {feature} {pathology} at the {position}.",
+        "An endoscopy image from the {section}, in which shows {feature} {pathology} located toward the {position}.",
+        "An endoscopy image from the {section}, in which has {feature} {pathology} at the {position}.",
+        "An endoscopy image from the {section} with {feature} {pathology} at the {position}.",
+        "This frame from the {section} is showing {feature} {pathology} at the {position}."
+    ],
+
+    "section|pathology|position": [
+      "An endoscopy image from the {section} showing {pathology} at the {position}.",
+      "An endoscopy image taken in the {section}, displaying {pathology} at the {position}.",
+      "An endoscopy image from the {section}, revealing {pathology} at the {position}.",
+      "An endoscopy image taken in the {section}, highlighting {pathology} at the {position}.",
+      "An endoscopy image from the {section}, in which shows {pathology} located toward the {position}.",
+      "An endoscopy image from the {section}, in which has {pathology} at the {position}.",
+      "An endoscopy image from the {section} with {pathology} at the {position}.",
+      "This frame from the {section} is showing {pathology} at the {position}."
+],
+    
+    "section|pathology|feature|tech": [
+      "An endoscopy image from the {section}, with {tech}, showing {feature} {pathology}.",
+      "An endoscopy image taken in the {section}, with {tech}, displaying {feature} {pathology}.",
+      "An endoscopy image from the {section}, with {tech}, revealing {feature} {pathology}.",
+      "An endoscopy image taken in the {section}, with {tech}, highlighting {feature} {pathology}.",
+      "An endoscopy image from the {section}, in which shows {feature} {pathology} and {tech}.",
+      "An endoscopy image from the {section}, in which has {feature} {pathology} and {tech}.",
+      "An endoscopy image from the {section} with {feature} {pathology}, with {tech}.",
+      "This frame from the {section} is showing {feature} {pathology} and {tech}."
+    ],
+    "section|pathology|tech": [
+      "An endoscopy image from the {section}, with {tech}, showing {pathology}.",
+      "An endoscopy image taken in the {section}, with {tech}, displaying {pathology}.",
+      "An endoscopy image from the {section}, with {tech}, revealing {pathology}.",
+      "An endoscopy image taken in the {section}, with {tech}, highlighting {pathology}.",
+      "An endoscopy image from the {section}, in which shows {pathology} and {tech}.",
+      "An endoscopy image from the {section}, in which has {pathology} and {tech}.",
+      "An endoscopy image from the {section} with {pathology} and {tech}.",
+      "This frame from the {section} is showing {pathology} and {tech}."
+    ],
+    "section|pathology|feature|position|tech": [
+      "An endoscopy image from the {section}, with {tech}, showing {feature} {pathology} at the {position}.",
+      "An endoscopy image taken in the {section}, with {tech}, displaying {feature} {pathology} at the {position}.",
+      "An endoscopy image from the {section}, with {tech}, revealing {feature} {pathology} at the {position}.",
+      "An endoscopy image taken in the {section}, with {tech}, highlighting {feature} {pathology} at the {position}.",
+      "An endoscopy image from the {section}, in which shows {feature} {pathology} located toward the {position}, with {tech}.",
+      "An endoscopy image from the {section}, in which has {feature} {pathology} at the {position}, with {tech}.",
+      "An endoscopy image from the {section} with {feature} {pathology} at the {position}, with {tech}.",
+      "This frame from the {section}, with {tech}, is showing {feature} {pathology} at the {position}."
+     ],
+    "section|pathology|position|tech": [
+      "An endoscopy image from the {section}, with {tech}, showing {pathology} at the {position}.",
+      "An endoscopy image taken in the {section}, with {tech}, displaying {pathology} at the {position}.",
+      "An endoscopy image from the {section}, with {tech}, revealing {pathology} at the {position}.",
+      "An endoscopy image taken in the {section}, with {tech}, highlighting {pathology} at the {position}.",
+      "An endoscopy image from the {section}, in which shows {pathology} located toward the {position}, with {tech}.",
+      "An endoscopy image from the {section}, in which has {pathology} at the {position}, with {tech}.",
+      "An endoscopy image from the {section} with {pathology} at the {position}, with {tech}.",
+      "This frame from the {section}, with {tech}, is showing {pathology} at the {position}."
+  ],
+    "section|tech": [
+      "An endoscopic image from the {section} with {tech}.",
+      "An endoscopic image taken in the {section} with {tech}."
+
+    ],
+    "section|pathology": [
+      "An endoscopy image from the {section} showing {pathology}.",
+      "An endoscopy image taken in the {section}, displaying {pathology}.",
+      "An endoscopy image from the {section}, revealing {pathology}.",
+      "An endoscopy image taken in the {section}, highlighting {pathology}.",
+      "An endoscopy image from the {section}, in which shows {pathology}.",
+      "An endoscopy image from the {section}, in which has {pathology}.",
+      "An endoscopy image from the {section} with {pathology}.",
+      "This frame from the {section} is showing {pathology}."
+    ],
+    "pathology": [
+      "An endoscopy image showing {pathology}.",
+      "An endoscopy image displaying {pathology}.",
+      "An endoscopy image revealing {pathology}.",
+      "An endoscopy image highlighting {pathology}.",
+      "An endoscopy image in which shows {pathology}.",
+      "An endoscopy image in which has {pathology}.",
+      "An endoscopy image with {pathology}."
+    ],
+    "pathology|feature|tech": [
+      "An endoscopy image, with {tech}, showing {feature} {pathology}.",
+      "An endoscopy image, with {tech}, displaying {feature} {pathology}.",
+      "An endoscopy image, with {tech}, revealing {feature} {pathology}.",
+      "An endoscopy image, with {tech}, highlighting {feature} {pathology}.",
+      "An endoscopy image in which shows {feature} {pathology} and {tech}.",
+      "An endoscopy image in which has {feature} {pathology} and {tech}.",
+      "An endoscopy image with {feature} {pathology} and {tech}."
+    ],
+    "pathology|feature": [
+      "An endoscopy image showing {feature} {pathology}.",
+      "An endoscopy image displaying {feature} {pathology}.",
+      "An endoscopy image revealing {feature} {pathology}.",
+      "An endoscopy image highlighting {feature} {pathology}.",
+      "An endoscopy image in which shows {feature} {pathology}.",
+      "An endoscopy image in which has {feature} {pathology}.",
+      "An endoscopy image with {feature} {pathology}."
+  ],
+  "pathology|position": [
+    "An endoscopy image showing {pathology} at the {position}.",
+    "An endoscopy image displaying {pathology} at the {position}.",
+    "An endoscopy image revealing {pathology} at the {position}.",
+    "An endoscopy image highlighting {pathology} at the {position}.",
+    "An endoscopy image in which shows {pathology} at the {position}.",
+    "An endoscopy image in which has {pathology}. at the {position}",
+    "An endoscopy image with {pathology} at the {position}."
+    ],
+
+    "pathology|feature|position": [
+      "An endoscopy image showing {feature} {pathology} at the {position}.",
+      "An endoscopy image displaying {feature} {pathology} at the {position}.",
+      "An endoscopy image revealing {feature} {pathology} at the {position}.",
+      "An endoscopy image highlighting {feature} {pathology} at the {position}.",
+      "An endoscopy image in which shows {feature} {pathology} at the {position}.",
+      "An endoscopy image in which has {feature} {pathology} at the {position}.",
+      "An endoscopy image with {feature} {pathology} at the {position}."
+  ],
+
+    "pathology|tech": [
+      "An endoscopy image, with {tech}, showing {pathology}.",
+      "An endoscopy image, with {tech}, displaying {pathology}.",
+      "An endoscopy image, with {tech}, revealing {pathology}.",
+      "An endoscopy image, with {tech}, highlighting {pathology}.",
+      "An endoscopy image in which shows {pathology} and {tech}.",
+      "An endoscopy image in which has {pathology} and {tech}.",
+      "An endoscopy image with {pathology} and {tech}."
+    ],
+    "pathology|feature|position|tech": [
+      "An endoscopy image, with {tech}, showing {feature} {pathology} at the {position}.",
+      "An endoscopy image, with {tech}, displaying {feature} {pathology} at the {position}.",
+      "An endoscopy image, with {tech}, revealing {feature} {pathology} at the {position}.",
+      "An endoscopy image, with {tech}, highlighting {feature} {pathology} at the {position}.",
+      "An endoscopy image in which shows {feature} {pathology} at the {position}, with {tech}.",
+      "An endoscopy image in which has {feature} {pathology} at the {position}, with {tech}.",
+      "An endoscopy image with {feature} {pathology} at the {position}, with {tech}."
+     ],
+    "pathology|position|tech": [
+      "An endoscopy image, with {tech}, showing {pathology} at the {position}.",
+      "An endoscopy image, with {tech}, displaying {pathology} at the {position}.",
+      "An endoscopy image, with {tech}, revealing {pathology} at the {position}.",
+      "An endoscopy image, with {tech}, highlighting {pathology} at the {position}.",
+      "An endoscopy image in which shows {pathology} at the {position}, with {tech}.",
+      "An endoscopy image in which has {tech} and {pathology} at the {position}.",
+      "An endoscopy image with {pathology} at the {position}, with {tech}."
+  ],
+    "section|non_pathology": [
+      "An endoscopy image from the {section} and no {non_pathology} is observed.",
+      "An endoscopy image taken in the {section}, displaying no {non_pathology}.",
+      "An endoscopy image from the {section}, revealing normal.",
+      "An endoscopy image taken in the {section}, showing normal.",
+      "An endoscopy image from the {section}, in which no {non_pathology} is seen.",
+      "An endoscopy image from the {section} showing no {non_pathology}.",
+      "An endoscopy image from the {section} without {non_pathology}.",
+      "This frame from the {section} is showing normal."
+    ],
+    "section|non_pathology|tech": [
+      "An endoscopy image from the {section}, with {tech}, and no {non_pathology} is observed.",
+      "An endoscopy image taken in the {section}, with {tech}, displaying no {non_pathology}.",
+      "An endoscopy image from the {section}, with {tech}, revealing normal.",
+      "An endoscopy image taken in the {section}, with {tech}, showing normal.",
+      "An endoscopy image from the {section}, with {tech}, showing no {non_pathology}.",
+      "An endoscopy image from the {section} without {non_pathology}, with {tech}.",
+      "This frame from the {section}, with {tech}, is showing normal."
+    ],
+    "non_pathology": [
+      "An endoscopy image in which no {non_pathology} is observed.",
+      "An endoscopy image displaying no {non_pathology}.",
+      "An endoscopy image revealing normal.",
+      "An endoscopy image showing normal.",
+      "An endoscopy image in which no {non_pathology} is seen.",
+      "An endoscopy image showing no {non_pathology}.",
+      "An endoscopy image without {non_pathology}.",
+      "This frame is showing normal."
+    ],
+
+    "section|non_pathology|feature|position": [
+      "An endoscopy image from the {section} and no {non_pathology} is observed.",
+      "An endoscopy image taken in the {section}, displaying no {non_pathology}.",
+      "An endoscopy image from the {section}, revealing normal.",
+      "An endoscopy image taken in the {section}, showing normal.",
+      "An endoscopy image from the {section}, in which no {non_pathology} is seen.",
+      "An endoscopy image from the {section} showing no {non_pathology}.",
+      "An endoscopy image from the {section} without {non_pathology}.",
+      "This frame from the {section} is showing normal."
+  ],
+  "section|non_pathology|feature": [
+    "An endoscopy image from the {section} and no {non_pathology} is observed.",
+    "An endoscopy image taken in the {section}, displaying no {non_pathology}.",
+    "An endoscopy image from the {section}, revealing normal.",
+    "An endoscopy image taken in the {section}, showing normal.",
+    "An endoscopy image from the {section}, in which no {non_pathology} is seen.",
+    "An endoscopy image from the {section} showing no {non_pathology}.",
+    "An endoscopy image from the {section} without {non_pathology}.",
+    "This frame from the {section} is showing normal."
+],
+"section|non_pathology|position": [
+  "An endoscopy image from the {section} and no {non_pathology} is observed.",
+  "An endoscopy image taken in the {section}, displaying no {non_pathology}.",
+  "An endoscopy image from the {section}, revealing normal.",
+  "An endoscopy image taken in the {section}, showing normal.",
+  "An endoscopy image from the {section}, in which no {non_pathology} is seen.",
+  "An endoscopy image from the {section} showing no {non_pathology}.",
+  "An endoscopy image from the {section} without {non_pathology}.",
+  "This frame from the {section} is showing normal."
+],
+    "non_pathology|position": [
+      "An endoscopy image in which no {non_pathology} is observed.",
+      "An endoscopy image displaying no {non_pathology}.",
+      "An endoscopy image revealing normal.",
+      "An endoscopy image showing normal.",
+      "An endoscopy image in which no {non_pathology} is seen.",
+      "An endoscopy image showing no {non_pathology}.",
+      "An endoscopy image without {non_pathology}.",
+      "This frame is showing normal."
+    ],
+    "non_pathology|feature": [
+      "An endoscopy image in which no {non_pathology} is observed.",
+      "An endoscopy image displaying no {non_pathology}.",
+      "An endoscopy image revealing normal.",
+      "An endoscopy image showing normal.",
+      "An endoscopy image in which no {non_pathology} is seen.",
+      "An endoscopy image showing no {non_pathology}.",
+      "An endoscopy image without {non_pathology}.",
+      "This frame is showing normal."
+    ],
+    "non_pathology|feature|position": [
+      "An endoscopy image in which no {non_pathology} is observed.",
+      "An endoscopy image displaying no {non_pathology}.",
+      "An endoscopy image revealing normal.",
+      "An endoscopy image showing normal.",
+      "An endoscopy image in which no {non_pathology} is seen.",
+      "An endoscopy image showing no {non_pathology}.",
+      "An endoscopy image without {non_pathology}.",
+      "This frame is showing normal."
+    ],
+    "section|non_pathology|feature|tech": [
+      "An endoscopy image from the {section}, with {tech}, and no {non_pathology} is observed.",
+      "An endoscopy image taken in the {section}, with {tech}, displaying no {non_pathology}.",
+      "An endoscopy image from the {section}, with {tech}, revealing normal.",
+      "An endoscopy image taken in the {section}, with {tech}, showing normal.",
+      "An endoscopy image from the {section}, with {tech}, showing no {non_pathology}.",
+      "An endoscopy image from the {section} without {non_pathology}, with {tech}.",
+      "This frame from the {section}, with {tech}, is showing normal."
+  ],
+  "section|non_pathology|position|tech": [
+    "An endoscopy image from the {section}, with {tech}, and no {non_pathology} is observed.",
+    "An endoscopy image taken in the {section}, with {tech}, displaying no {non_pathology}.",
+    "An endoscopy image from the {section}, with {tech}, revealing normal.",
+    "An endoscopy image taken in the {section}, with {tech}, showing normal.",
+    "An endoscopy image from the {section}, with {tech}, showing no {non_pathology}.",
+    "An endoscopy image from the {section} without {non_pathology}, with {tech}.",
+    "This frame from the {section}, with {tech}, is showing normal."
+],
+"section|non_pathology|feature|position|tech": [
+  "An endoscopy image from the {section}, with {tech}, and no {non_pathology} is observed.",
+  "An endoscopy image taken in the {section}, with {tech}, displaying no {non_pathology}.",
+  "An endoscopy image from the {section}, with {tech}, revealing normal.",
+  "An endoscopy image taken in the {section}, with {tech}, showing normal.",
+  "An endoscopy image from the {section}, with {tech}, showing no {non_pathology}.",
+  "An endoscopy image from the {section} without {non_pathology}, with {tech}.",
+  "This frame from the {section}, with {tech}, is showing normal."
+],
+"non_pathology|feature|position|tech": [
+  "An endoscopy image, with {tech}, and no {non_pathology} is observed.",
+  "An endoscopy image, with {tech}, displaying no {non_pathology}.",
+  "An endoscopy image, with {tech}, revealing normal.",
+  "An endoscopy image, with {tech}, showing normal.",
+  "An endoscopy image, with {tech}, showing no {non_pathology}.",
+  "An endoscopy image without {non_pathology}, with {tech}.",
+  "This frame, with {tech}, is showing normal."
+],
+"non_pathology|feature|tech": [
+  "An endoscopy image, with {tech}, and no {non_pathology} is observed.",
+  "An endoscopy image, with {tech}, displaying no {non_pathology}.",
+  "An endoscopy image, with {tech}, revealing normal.",
+  "An endoscopy image, with {tech}, showing normal.",
+  "An endoscopy image, with {tech}, showing no {non_pathology}.",
+  "An endoscopy image without {non_pathology}, with {tech}.",
+  "This frame, with {tech}, is showing normal."
+],
+"non_pathology|position|tech": [
+  "An endoscopy image, with {tech}, and no {non_pathology} is observed.",
+  "An endoscopy image, with {tech}, displaying no {non_pathology}.",
+  "An endoscopy image, with {tech}, revealing normal.",
+  "An endoscopy image, with {tech}, showing normal.",
+  "An endoscopy image, with {tech}, showing no {non_pathology}.",
+  "An endoscopy image without {non_pathology}, with {tech}.",
+  "This frame, with {tech}, is showing normal."
+],
+"non_pathology|tech": [
+  "An endoscopy image, with {tech}, and no {non_pathology} is observed.",
+  "An endoscopy image, with {tech}, displaying no {non_pathology}.",
+  "An endoscopy image, with {tech}, revealing normal.",
+  "An endoscopy image, with {tech}, showing normal.",
+  "An endoscopy image, with {tech}, showing no {non_pathology}.",
+  "An endoscopy image without {non_pathology}, with {tech}.",
+  "This frame, with {tech}, is showing normal."
+]
+  }
